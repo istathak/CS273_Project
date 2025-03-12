@@ -22,4 +22,5 @@ Ensure you have Python and the required dependencies installed:
 ```bash
 pip install torch torchvision numpy matplotlib bokeh sklearn
 ```
-
+## How To Run the Model 
+View `main.ipynb` this is where you can run the model. Run it. thsnk you 
